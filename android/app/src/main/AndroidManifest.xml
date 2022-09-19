@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.dicoding_final_flutterpemula">
+    package="com.by.wallpaper">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="By Wallpaper"

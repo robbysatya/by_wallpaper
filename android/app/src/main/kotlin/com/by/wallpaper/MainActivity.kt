@@ -1,4 +1,4 @@
-package com.example.dicoding_final_flutterpemula
+package com.by.wallpaper
 
 import io.flutter.embedding.android.FlutterActivity
 
